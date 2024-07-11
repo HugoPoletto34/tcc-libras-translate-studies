@@ -1,0 +1,5 @@
+cv2
+os
+mediapipe
+numpy
+mediapipe-model-maker
